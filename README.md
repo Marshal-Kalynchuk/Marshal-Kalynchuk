@@ -2,13 +2,18 @@
 
 Welcome to my GitHub profile! I'm Marshal Kalynchuk, a Software Engineering student at the University of Calgary, deeply passionate about full-stack development, machine learning, and cloud computing. While a significant part of my work is in private repositories, reflecting my involvement in diverse and challenging projects, I'm keen on sharing insights and learnings from my journey. Whether it's Ruby on Rails, Flutter, Python, or exploring the latest in cloud technologies, my aim is to push the boundaries of what's possible in tech.
 
+### Education
+  + Bachelor of Science in Software Engineering
+  + Currently in my third year at the University of Calgary
+
 ### Key Skills
 + Cloud Computing: Proficient in Google Cloud Platform services including Compute Engine, SQL, Storage, and AWS services like DynamoDB, Polly, Lambda.
 + Programming Languages: Skilled in C, C++, Java, Ruby, Python, JavaScript, TypeScript.
 + Web Development: Experienced in Ruby on Rails, HTML, CSS, JavaScript, and front-end frameworks like React and Flutter.
-+ Machine Learning: Knowledgeable in Tensorflow and Keras.
++ Machine Learning: Knowledgeable in Tensorflow, Keras, Scikit-Learn, Pandas and Numpy.
 + DevOps Tools: Familiar with Terraform, Cloudflare, Nginx, and Git.
 + Database Management: Competent with PostgreSQL, MySQL, and AWS DynamoDB.
++ Tools & Platoforms: Experienced in using Jira for agile project managment and bug tracking and proficient in Microsoft Office Suite.
 
 ### Current Projects
 
@@ -16,4 +21,13 @@ Welcome to my GitHub profile! I'm Marshal Kalynchuk, a Software Engineering stud
 
 📝 Last Will Creation Platform (Private Repository): This project is where I honed my web development skills, particularly in Ruby on Rails. It's a platform designed for creating and managing last wills, utilizing a robust tech stack including Ruby on Rails, HTML, CSS, and JavaScript. Though it's not intended for launch, this project is pivotal in my journey as it significantly deepened my understanding of web technologies and back-end development. It remains private as it represents a substantial investment of time and learning.
 
-🤖 Custom C++ Neural Network Project: In this project, I developed a neural network entirely from scratch using C++. It was not only an exploration into the mathematics of simple neural networks but also a deep dive into C++'s capabilities, especially in areas like arrays and memory management. The hands-on experience with these core concepts significantly enhanced my understanding of both neural network operations and the intricacies of C++ programming. This project stands as a testament to my technical proficiency and my ability to grasp complex computational concepts.
+### Work Experience
+
+## Micro Engineering Tech Inc. | Software Engineering Intern
+
+## RoboGarden Inc. | Software Engineering Intern
+
+### Resume and How to reach me
+  + Download my resume [here]()
+  + LinkedIn: [Marshal Kalynchuk](https://www.linkedin.com/in/marshal-kalynchuk-328398236/)
+  + Email: marshalkalynchuk1@gmail.com
