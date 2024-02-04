@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Marshal Kalynchuk, a Software Engineering student at the University of Calgary, deeply passionate about full-stack development, machine learning, and cloud computing. While a significant part of my work is in private repositories, reflecting my involvement in diverse and challenging projects, I'm keen on sharing insights and learnings from my journey. Whether it's Ruby on Rails, Flutter, Python, or exploring the latest in cloud technologies, my aim is to push the boundaries of what's possible in tech.
+Welcome! I'm Marshal Kalynchuk, an innovative Software Engineering student at the University of Calgary, deeply engaged in shaping the future of technology. With a foundation in full-stack development and a burgeoning interest in machine learning, my journey is characterized by leading, designing, and implementing technology solutions that address real-world challenges. My experience spans developing rich content platforms, leveraging cloud computing technologies, and mastering web development frameworks like Ruby on Rails. I thrive under pressure, solving complex problems with creativity and precision. Beyond coding, I'm committed to continuous learning and leading teams towards exceeding our collective goals. Join me in exploring the limitless potential of technology to make a meaningful impact.
 
 ## 🎓 Education
   + Bachelor of Science in Software Engineering
@@ -17,19 +17,10 @@ Welcome to my GitHub profile! I'm Marshal Kalynchuk, a Software Engineering stud
 
 ## Current Projects
 
-📚 Book Subscription Platform (Private Repository): This project is a testament to my ability to blend various technologies to create a comprehensive solution. Leveraging Ruby on Rails for robust backend functionality, Flutter for a seamless and responsive frontend experience, and Google Cloud Platform (GCP) for efficient and scalable cloud services, this book subscription platform represents the culmination of my skills in full-stack development. While the specifics of the project are private, the technology stack used underscores my focus on creating versatile and user-centric digital solutions.
+📚 Book Subscription Platform (Private Repository): This project showcases my ability to integrate a range of technologies into a comprehensive solution. Employing Ruby on Rails for a solid backend foundation, React for a dynamic and responsive frontend, and Google Cloud Platform (GCP) for scalable cloud services, this platform manages over 80,000 books. It represents the pinnacle of my skills in full-stack development, illustrating my commitment to building versatile, user-centric digital solutions.
 
-📝 Last Will Creation Platform (Private Repository): This project is where I honed my web development skills, particularly in Ruby on Rails. It's a platform designed for creating and managing last wills, utilizing a robust tech stack including Ruby on Rails, HTML, CSS, and JavaScript. Though it's not intended for launch, this project is pivotal in my journey as it significantly deepened my understanding of web technologies and back-end development. It remains private as it represents a substantial investment of time and learning.
-
-## Work Experience
-
-#### Micro Engineering Tech Inc.
-+ Software Engineering Intern
-
-#### RoboGarden Inc. 
-+ Software Engineering Intern
+📝 Last Will Creation Platform (Private Repository): A pivotal project that refined my web development expertise, focusing on Ruby on Rails, HTML, CSS, and JavaScript. This platform is designed for the intricate process of creating and managing last wills, employing a comprehensive tech stack to ensure robust functionality.
 
 ### Resume and How to reach me
   + Download my resume [here](https://drive.google.com/file/d/1RM-j9lAFcfnN8CE_MdRM2TUkYzfvMAjb/view?usp=sharing)
   + LinkedIn: [Marshal Kalynchuk](https://www.linkedin.com/in/marshal-kalynchuk-328398236/)
-  + Email: marshalkalynchuk1@gmail.com
