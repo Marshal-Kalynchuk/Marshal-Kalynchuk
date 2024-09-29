@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Welcome! I'm Marshal Kalynchuk, an innovative Software Engineering student at the University of Calgary, deeply engaged in shaping the future of technology. With a foundation in full-stack development and a burgeoning interest in machine learning, my journey is characterized by leading, designing, and implementing technology solutions that address real-world challenges. My experience spans developing rich content platforms, leveraging cloud computing technologies, and mastering web development frameworks like Ruby on Rails. I thrive under pressure, solving complex problems with creativity and precision. Beyond coding, I'm committed to continuous learning and leading teams towards exceeding our collective goals. Join me in exploring the limitless potential of technology to make a meaningful impact.
+Welcome! I'm Marshal Kalynchuk, an innovative Software Engineering student at the University of Calgary, deeply engaged in shaping the future of technology. With a foundation in full-stack development and a burgeoning interest in machine learning and blockchain technologies, my journey is characterized by leading, designing, and implementing technology solutions that address real-world challenges. My experience spans developing rich content platforms, leveraging cloud computing technologies, and mastering web development frameworks like Ruby on Rails. I thrive under pressure, solving complex problems with creativity and precision. Beyond coding, I'm committed to continuous learning and leading teams towards exceeding our collective goals.
 
 ## 🎓 Education
   + Bachelor of Science in Software Engineering
-  + Currently in my third year at the University of Calgary
+  + Currently in my four year at the University of Calgary
 
 ## 🔧 Key Skills
 + Cloud Computing: Proficient in Google Cloud Platform services including Compute Engine, SQL, Storage, and AWS services like DynamoDB, Polly, Lambda.
