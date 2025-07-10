@@ -10,19 +10,19 @@ Founder @ [Memloop](https://memloop.ai) │ Software Engineering student at the 
   Memory-first AI chat platform capturing and recalling your team’s docs, conversations & processes.  
 
 - **[Ethereum Ticketing DApp](https://ticketing-dapp.netlify.app/)**  
-  NFT-based event ticketing on Ethereum with Solidity
+  Enhanced reCAPTCHA plugin with on-demand proxy rotation for reliable browser automation.
 
 - **[Puppeteer-Extra Fork](https://github.com/Marshal-Kalynchuk/crypto-lstm-prediction)**  
   Enhanced recaptcha plugin with on-demand proxy rotation for reliable browser automation
 
 - **[Surewill](https://github.com/Marshal-Kalynchuk/surewill)** _(sunset)_  
-  Rails-powered last-will & testament platform with user auth and PDF generation
+  Rails-powered last-will & testament generator with auth and PDF export.
 
 - **[LSTM Crypto Predictor](https://github.com/Marshal-Kalynchuk/crypto-lstm-prediction)**  
-  Jupyter notebook demonstrating an LSTM model forecasting crypto prices on log-returns, complete with performance plots
+  Jupyter notebook forecasting crypto prices on log-returns, complete with performance plots.
 
 - **Readbee** _(private)_ _(sunset)_  
-  Public-domain book reader platform featuring 90000 books (React · Rails · GCP)
+  Public-domain book reader hosting 90 000+ titles (React · Rails · GCP).
 
 ---
 
