@@ -33,6 +33,6 @@ MCP · A2A · OpenAI · React · Next.js · Node.js · TypeScript · TailwindCSS
 ---
 
 ## 📄 Resume & 📇 Contact
-
+- [Portfolio](https://marshalkalynchuk.com)
 - [Resume](https://drive.google.com/file/d/1RM-j9lAFcfnN8CE_MdRM2TUkYzfvMAjb/view?usp=sharing)  
 - [LinkedIn](https://www.linkedin.com/in/marshal-kalynchuk-328398236/)  
